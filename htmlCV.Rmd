@@ -1,0 +1,531 @@
+---
+title: "Curriculum Vitae"
+output:
+  html_document:
+    df_print: paged
+  word_document: 
+     reference_docx: temp.docx
+  pdf_document: default
+urlcolor: green
+---
+
+
+\color{RoyalBlue} Name: Tihomir Nikolov 
+=======
+
+\color{Black}
+
+
+Education
+---------
+
+\hrule
+
+2016-2017 
+:   **MSc, Finance, track 'Corporate Finance'**; University of Amsterdam
+
+    *Thesis title: Private equity, debt and financial distress. Is there evidence of excessive bankruptcies in Europe?*
+
+Online Education
+----------------
+
+
+### Specialization *Applied Data Science with Python*  
+
+
+\hrule
+
+\setlength{\parskip}{0.3em}
+
+*Offered by:* **University of Michigan **, *Completed:* Feb 2019
+
+Course Title   
+:    Introduction to Data Science in Python
+:    *Verification page: https://www.coursera.org/account/accomplishments/certificate/YYVNGBDKTHPH * 
+
+\setlength{\parskip}{0em}
+
+Course Title   
+:    Applied Plotting, Charting & Data Representation in Python
+:    *Verification page: https://www.coursera.org/account/accomplishments/certificate/RB84QXWJV9R2 * 
+
+Course Title   
+:    Applied Machine Learning in Python
+:    *Verification page: https://www.coursera.org/account/accomplishments/certificate/XEWYTN3TB8VY * 
+
+Course Title   
+:    Applied Text Mining in Python
+:    *Verification page: https://www.coursera.org/account/accomplishments/certificate/PBCCLDET3R7N * 
+
+Course Title   
+:    Applied Social Network Analysis in Python
+:    *Verification page: https://www.coursera.org/account/accomplishments/certificate/FZVKVV92EA7J * 
+
+
+*Specialization Certificate*: 
+*https://www.coursera.org/account/accomplishments/specialization/certificate/ZBFPBKTMPWLD *
+
+
+
+
+
+### Specialization *Developing APIs with Google Cloud's Apigee API Platform*
+
+
+\hrule
+
+\setlength{\parskip}{0.3em}
+
+*Offered by:* **Google Cloud Training**, *Completed:* Nov 2018
+
+Course Title   
+:    API Design and Fundamentals of Google Cloud's Apigee API Platform
+:    *Verification page: https://www.coursera.org/account/accomplishments/certificate/C68ZMC9Z8S6P * 
+
+\setlength{\parskip}{0em}
+
+Course Title   
+:    API Development on Google Cloud's Apigee API Platform
+:    *Verification page: https://www.coursera.org/account/accomplishments/certificate/MGCTGUCHQ2AR * 
+
+Course Title   
+:    API Security on Google Cloud's Apigee API Platform
+:    *Verification page: https://www.coursera.org/account/accomplishments/certificate/PEM2F78M5EHM * 
+
+*Specialization Certificate*: 
+*https://www.coursera.org/account/accomplishments/specialization/certificate/LQDM7YBBH59T *
+
+
+### Recent 
+Course Title
+:    001x: MongoDB Basics, offered by MongoDB University and edX(June 2018)
+:    *Verification page: https://courses.edx.org/certificates/3a573fb102144b08bd4fe9c7eeeb414b *
+
+
+Course Title
+:    Advanced MATLAB for Scientific Computing (April 2018 June 2018), offered by Stanford Online. Instructor: Danielle Maddix
+:    *Verification page: https://verify.lagunita.stanford.edu/SOA/9cbc77dab7b74220a566da918ddc79b6 *
+
+
+Course Title
+:    IM.1x: Introduction to Management Information Systems (MIS): A Survival Guide, offered by UC3Mx and edX(March 2018 April 2018) Instructor: Alfonso Durán Heras
+:    *Verification page: https://courses.edx.org/certificates/06975c9dab5e4677bff257cc72dc2392 *
+
+Course Title
+:    Data Visualization and Communication with Tableau, offered by Duke University and Coursera (Mart 2018 April 2018). Instructors: Daniel Egger & Jana Schaich Borg
+:    *Verification page: https://www.coursera.org/account/accomplishments/certificate/8TWPFF6R3YRX *
+
+Course Title
+:    Managing Big Data with MySQL, offered by Duke University and Coursera (Jan 2018 Mart 2018). Instructors: Daniel Egger & Jana Schaich Borg
+:    *Verification page: https://www.coursera.org/account/accomplishments/certificate/FZ5BD4K8GGJF *
+
+Course Title
+:    6.041x: Introduction to Probability: Part 1 - The Fundamentals, offered by MITx and edX (Sep 2017 Dec 2017). Instructor: John Tsitsiklis
+:    *Verification page: https://courses.edx.org/certificates/0672740cad2a40c08d76b9e3b9e307ac *
+
+
+### Specialization *Big Data*
+
+\hrule
+
+\setlength{\parskip}{0.3em}
+
+*Offered by:* **University of California San Diego**, *Completed:* July 2018
+
+*Instructors:*  Ilkay Altintas, Amarnath Gupta & Mai Nguyen
+
+
+Course Title   
+:    Introduction to Big Data 
+:    *Verification page: https://www.coursera.org/account/accomplishments/certificate/P88J7QF8W3QP * 
+
+\setlength{\parskip}{0em}
+
+Course Title   
+:    Big Data Modeling and Management Systems 
+:    *Verification page: https://www.coursera.org/account/accomplishments/certificate/QEXNJZ3BUJCV * 
+
+Course Title   
+:    Big Data Integration and Processing
+:    *Verification page: https://www.coursera.org/account/accomplishments/certificate/EHH5VCXE9CGF * 
+
+Course Title   
+:    Machine Learning With Big Data 
+:    *Verification page: https://www.coursera.org/account/accomplishments/certificate/LJ4EH4TDAARQ * 
+
+Course Title   
+:    Graph Analytics for Big Data
+:    *Verification page: https://www.coursera.org/account/accomplishments/certificate/EGQCYVEKPZE6 * 
+
+Course Title   
+:    Big Data Capstone Project Date: September 18 2018
+:    *Verification page: https://www.coursera.org/account/accomplishments/verify/ASXBBY22CEMB * 
+
+*Specialization Certificate*: 
+*https://www.coursera.org/account/accomplishments/specialization/4D86476F3WRF *
+
+### Specialization *Deep Learning*
+\hrule
+\setlength{\parskip}{0.3em}
+
+*Offered by:* **deeplearning.ai**, *Completed:* July 2018
+
+*Instructor:*  **Andrew Ng**
+
+Course Title  
+:    Neural Networks and Deep Learning 
+:    *Verification page: https://www.coursera.org/account/accomplishments/verify/9DEQZ2WDBBG7 * 
+
+\setlength{\parskip}{0em}
+
+Course Title   
+:    Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization 
+:    *Verification page: https://www.coursera.org/account/accomplishments/certificate/GN5FFN7RXABY * 
+
+Course Title   
+:    Structuring Machine Learning Projects 
+:    *Verification page: https://www.coursera.org/account/accomplishments/certificate/B35D54VVD89D * 
+
+Course Title   
+:    Convolutional Neural Networks
+:    *Verification page: https://www.coursera.org/account/accomplishments/certificate/LPND988WBRUT * 
+
+Course Title   
+:    Sequence Models 
+:    *Verification page: https://www.coursera.org/account/accomplishments/certificate/JLZ7AQ9HW448 * 
+
+*Specialization Certificate*: *https://www.coursera.org/account/accomplishments/specialization/certificate/3PUWQWUMZVW7 *
+
+
+
+### Specialization *Data Science*
+\hrule
+\setlength{\parskip}{0.3em}
+
+*Offered by:* **Johns Hopkins University**, *Completed:* July 2016
+
+*Instructors:*  Roger D. Peng, PhD, Jeff Leek, PhD, Brian Caffo, PhD.
+
+Course Title   
+:    The Data Scientist's Toolbox  (Date June 3, 2016)
+:    *Verification page: https://www.coursera.org/account/accomplishments/certificate/BJB5KHUMT569 * 
+
+\setlength{\parskip}{0em}
+
+Course Title
+:    R Programming  (Date: August 19th 2014)
+:    *Verification page: https://www.coursera.org/verify/8YMDDXDMRR (with distinction)*
+
+Course Title
+:    Getting and Cleaning Data   (Date: September 5, 2014)
+:    *Verification page: https://www.coursera.org/account/accomplishments/certificate/A7PVFF98CC(with distinction)*
+
+Course Title
+:    Exploratory Data Analysis    (Date: September 1, 2014)
+:    *Verification page: https://www.coursera.org/account/accomplishments/records/z6Sv77MZRzZX4wgU (with distinction)*
+
+Course Title
+:    Reproducible Research   (Date: September 29, 2014)
+:    *Verification page: https://www.coursera.org/account/accomplishments/records/fA95JDQfteBGrubG (with distinction)*
+
+Course Title
+:    Statistical Inference  (Date:  August 2, 2015)
+:    *Verification page: https://www.coursera.org/account/accomplishments/records/MrHZ3vNUpVqSeUYR (with distinction)*
+    
+Course Title
+:    Mathematical Biostatistics Boot Camp 1   (Date: August 30, 2015)
+:    *Verification page: https://www.coursera.org/account/accomplishments/records/KHyrtxVVEDPkmE7r (with distinction)*
+
+Course Title
+:    Regression Models  (Date: October 4, 2015)
+:    *Verification page: https://www.coursera.org/account/accomplishments/records/yDCmC5CPFeaAcUhT (with distinction)*
+
+Course Title
+:    Practical Machine Learning   (Date: April 20, 2016)
+:    *Verification page: https://www.coursera.org/account/accomplishments/certificate/LN7VCRMG3TAH *
+    
+Course Title
+:    Developing Data Products   (Date: May 17, 2016)
+:    *Verification page: https://www.coursera.org/account/accomplishments/certificate/395BXF3NYK4C *
+
+Course Title
+:    Data Science Capstone   (Date: July 19, 2016)
+:    *Verification page: https://www.coursera.org/account/accomplishments/certificate/7EJMVHKHPER6 *
+
+Specialization Certificate earned on July 19, 2016, *verification page: https://www.coursera.org/account/accomplishments/specialization/certificate/G77AAMYN78Z5 *
+
+### Other Computer Science/Mathematics Courses
+\hrule
+\setlength{\parskip}{0.3em}
+
+Course Title
+:    Introduction to Programming with MATLAB by Vanderbilt University on Coursera. Certificate earned on September 6, 2015. Instructors: Akos Ledeczi, Michael Fitzpatrick & Robert Tairas
+:    *Verification page: https://www.coursera.org/account/accomplishments/records/NxqEQJxFd8xFaPb2 (with distinction)*
+
+\setlength{\parskip}{0em}
+
+Course Title
+:    6.00.1x: Introduction to Computer Science and Programming Using Python a course of study offered by MITx, through edX, certificate earned on August 16, 2016. Instructors: prof. W. Eric L. Grimson, prof. John Guttag
+:    *Verification page: https://courses.edx.org/certificates/84c1dd5a41114340aca768637da61f1c *
+
+
+Course Title
+:    6.00.2x: Introduction to Computational Thinking and Data Science a course of study offered by MITx and edX, certificate earned on December 23, 2014. Instructors: prof. W. Eric L. Grimson, prof. John Guttag
+:    *Verification page: https://verify.edx.org/cert/c8a4f032c7aa47f98ed472ac83c8a172 *
+
+
+Course Title
+:    Math226.2x: Linear Differential Equations, a course of study offered by BUx, an online learning initiative of Boston University through edX. certificate earned on June 20, 2016, grade achieved 82%. Instructor: prof. Paul Blanchard
+:    *Verification page: https://courses.edx.org/certificates/754f66721754410e86036a98ea936558 *
+
+Course Title
+:    Math226.3x: Nonlinear Differential Equations: Order and Chaos, a course of study offered by BUx, an online learning initiative of Boston University through edX. Certificate earned on August 8, 2016, grade achieved 96%. Instructor: prof. Paul Blanchard
+:    *Verification page: https://courses.edx.org/certificates/b2dccadfd4e447a5b1be686e3f659f13 *
+
+
+Course Title
+:     DEV211.1x: JavaScript, HTML and CSS Web Development, a course of study offered by Microsoft, an online learning initiative of Microsoft Corporation through edX. Certificate earned on May 24, 2016.
+:    *Verification page: https://courses.edx.org/certificates/dcc2ed1e56be4cc08fb6235d7cc23527 *
+
+
+Course Title
+:    Process Mining: Data science in Action by Eindhoven University of Technology on Coursera. Certificate earned on May 20, 2015. Instructors: prof. Wil van der Aals 
+:    *Verification page: https://www.coursera.org/account/accomplishments/records/KhAqeMB9sAs2nSzR (with distinction)*
+
+
+Course Title
+:    EX101: Data Analysis Take It to the MAX() by DelftX and edX, Certificate earned on June 19, 2015. Instructors: Félienne Hermans
+:    *Verification page: https://verify.edx.org/cert/05efe5c3b7984902848396dd2f444c36 *
+
+
+Course Title
+:    004x: Fun with Prime Numbers: The Mysterious World of Mathematics by KyotoX, an
+online learning initiative of Kyoto University through edX. Certificate earned on February 29, 2016
+Instructor: Tetsushi Ito
+:   *Verification Page: https://courses.edx.org/certificates/71d23467dce442d5b59dba416b0be05c *
+
+
+
+
+
+### Specialization *Reasoning, Data Analysis, & Writing*
+\hrule
+\setlength{\parskip}{0.3em}
+
+*Offered by:* **Duke University**, *Completed:* May 2016
+
+
+Course Title
+:    Think Again: How to Reason and Argue (Date: December 31, 2015). Instructors: Dr. Walter SinnottArmstrong & Dr. Ram Neta
+:    *Verification page: https://www.coursera.org/account/accomplishments/records/uNV7QEG9bxvPgLVJ (with distinction)*
+
+\setlength{\parskip}{0em}
+
+
+Course Title
+:    Data Analysis and Statistical Inference (Date: November 10, 2014) Instructor: Dr. Mine ÇetinkayaRundel
+:    *Verification page: https://www.coursera.org/account/accomplishments/certificate/7LCXUW4SWJ (with distinction)*
+
+Course Title
+:    English Composition I (Date: December 22, 2014). Instructors: Dr. Denise Comer
+    *Verification page: https://www.coursera.org/account/accomplishments/records/df2H5Ld9N8g8cSzq (with distinction)*
+    
+Course Title
+:    Reasoning, Data Analysis, & Writing Final Project (Date: March 21, 2016). Instructors: Dr. Walter Sinnott-Armstrong, Dr. Denise Comer, Mine Çetinkaya-Rundel & Dr. Ram Neta
+:    *Verification page: https://www.coursera.org/account/accomplishments/certificate/A4KUG7F6RA (with distinction)*
+
+Specialization Certificate: *https://www.coursera.org/account/accomplishments/specialization/certificate/DZL3K7ZA3SDK *
+
+
+
+
+
+### Specialization *Essentials of Corporate Financial Analysis and Decision Making*
+\hrule
+\setlength{\parskip}{0.3em}
+
+*Offered by:* **University of Melbourne**, *Completed:* December 2015
+
+*Instructors:* Paul Kofman & Sean Pinder
+
+Course Title
+:    The Language and Tools of Financial Analysis (Date: July 5, 2015)
+:    *Verification page: https://www.coursera.org/account/accomplishments/records/SaZBrXgUaJ7eVe3C (with distinction)*
+
+\setlength{\parskip}{0em}
+
+Course Title
+:    The Role of Global Capital Markets (Date: August 9, 2015) 
+:    *Verification page: https://www.coursera.org/account/accomplishments/records/YdcgqNLuaP64g4Mw (with distinction)*
+
+
+Course Title
+:    Corporate Financial Decision Making for Value Creation (Date: September 13, 2015)
+:    *Verification page: https://www.coursera.org/account/accomplishments/records/J2aSwUxcwRyU5aw6 (with distinction)*
+
+Course Title
+:    Alternative Approaches to Valuation and Investment (Date: October 18, 2015)
+:    *Verification page: https://www.coursera.org/account/accomplishments/records/kvQbPDJ5QTD43mry (with distinction)*
+
+Course Title
+:    Essentials of Corporate Financial Analysis and Decision Making Capstone (Date: December 30, 2015)
+:    *Verification page: https://www.coursera.org/account/accomplishments/records/6dCNxdgfHFddznTL (with distinction)*
+
+Specialization Certificate: *https://www.coursera.org/account/accomplishments/specialization/SRLEKQ8DGPC4 *
+
+
+
+### Other *Finance/Economics* Courses
+\hrule
+\setlength{\parskip}{0.3em}
+
+Course Title
+:    Asset Pricing, Part 2 by The University of Chicago on Coursera. Certificate earned on May 30, 2015. Instructor: prof. John Cochrane
+:    *Verification page: https://www.coursera.org/account/accomplishments/records/VtmxVW6n8cJ6VguF (with distinction)*
+
+\setlength{\parskip}{0em}
+
+
+Course Title
+:    BEM1105x: Pricing Options with Mathematical Models by CaltechX, an online learning
+initiative of Caltech through edX. Certificate earned on January 4, 2016
+Instructor: prof. Jaksa Cvitanic
+:    *Verification page: https://courses.edx.org/certificates/348886d4f23944c9b6ad7144a14d2e49 *
+
+Course Title
+:    Financial Markets offered by Yale University and Coursera (Feb 17th 2014 - April 24 th 2014). Instructor: prof. Robert Shiller
+:    *Verification page: https://www.coursera.org/verify/546GTN4JE2 *
+
+Course Title
+:    An Introduction to Financial Accounting by University of Pennsylvania on Coursera. Certificate earned on November 17, 2014. Instructor: prof. Brian Bushee
+:    *Verification page: https://www.coursera.org/account/accomplishments/records/S3GDvdSYGDNsBRPA (with distinction)*
+
+Course Title
+:    Econometrics: Methods and Applications by Erasmus University Rotterdam on Coursera. Certificate earned on June 5, 2016. Instructors: Philip Hans Franses, Christiaan Heij, Michel van der Wel, Dennis Fok, Richard Paap, Dick van Dijk , Erik Kole, Francine Gresnigt & Myrthe van Dieijen; Grade achieved: 94%
+:    *Verification page: https://www.coursera.org/account/accomplishments/certificate/EULTCZPM8WTD *
+
+Course Title
+:    Computational Investing, Part I by Georgia Institute of Technology on Coursera. Certificate earned on September 3, 2016. Instructor: Dr. Tucker Balch
+:    *Verification page: https://www.coursera.org/account/accomplishments/certificate/XVRWQ5D8XA95 *
+
+    
+
+Course Title
+:    Economics of Money and Banking, Part One, offered by Barnard College, Colombia University and Coursera (May 27th 2014 - August 21st 2014). Instructor: prof. Perry Mehrling
+:    *Statement of Accomplishment*
+
+Course Title
+:    Economics of Money and Banking, Part Two, offered by Barnard College, Colombia University and Coursera (July 8th 2014 - September 10 th 2014). Instructor: prof. Perry Mehrling
+:    *Statement of Accomplishment*
+
+Course Title
+:    IMFx: FPP.1x Financial Programming and Policies, Part 1: Macroeconomic Accounts & Analysis, offered by IMF and edX (May 29, 2014 July 22, 2014). Instructors: Paolo Dudine, Adolfo Barajas, Eric Verreydt, Luisa Zanforlin, Nan Li
+:    *Verification page: https://verify.edx.org/cert/33313e992a284931a0791b810a6cf77a *
+
+
+Course Title
+:    The Power of Macroeconomics: Economic Principles in the Real World, offered by University of California, Irvine and Coursera (Mar 31st 2014 June 18th 2014). Instructor: Dr. Peter Navarro
+:    *Verification page: https://www.coursera.org/verify/XJMG5FPPRV (with distinction)*
+
+
+Course Title
+:    TW3421x An Introduction to Credit Risk Management, offered by DelftX and edX (April 8th 2014 - July 3rd 2014). Instructor: Dr. P. Cirillo
+:   *Verification page: https://verify.edx.org/cert/390b04143853469399c6e95839e62c5f *
+
+Course Title
+:    Game Theory I by Stanford University and Coursera. Certificate earned on December 9, 2014. Instructors: Matthew O. Jackson , Kevin LeytonBrown, Yoav Shoham
+:    *Statement of Accomplishment*
+
+Course Title
+:    Game Theory II: Advanced Applications by Stanford University and Coursera. Certificate earned on February 22, 2016. Instructors: Matthew O. Jackson , Kevin LeytonBrown, Yoav Shoham
+:    *Statement of Accomplishment*
+    
+
+Course Title
+:    YCA2015.1.2x: Understanding the Federal Reserve by New York Institute of Finance and edX. Certificate earned on June 29, 2015. Instructors: Lee Arthur, Anton Theunissen
+:    *Verification Page: https://verify.edx.org/cert/f21f068e4c17432bbcc10ef323fc4006 *
+
+
+
+
+
+### Other Law Courses
+\hrule
+\setlength{\parskip}{0.3em}
+
+Course Title
+:    Rethinking International Tax Law by Universiteit Leiden on Coursera. Certificate earned on June 8, 2015. Instructors: Prof. Dr. Sjoerd Douma
+:    *Verification page: https://www.coursera.org/account/accomplishments/records/dAHwnSNVTFcM8SZB *
+
+\setlength{\parskip}{0em}
+
+Course Title
+:    Introduction to European Business Law by Lund University and Coursera. Certificate earned on April 9, 2015
+Instructors: Senior professor Hanshenrik Lidgard, PhD, professor Xavier Grousott, PhD
+:    *Statement of Accomplishment*
+
+
+Course Title
+:    Understanding Europe: Why It Matters and What It Can Offer You, offered by HEC Paris and Coursera (May 9th 2014 July 21st 2014). Instructor: Alberto Alemanno
+:    *Verification page: https://www.coursera.org/verify/SLB3NLZPFZ (with distinction)*
+
+
+Course Title
+:    Economic Growth and Distributive Justice by Tel Aviv University on Coursera. Certificate earned on December 6, 2015. Instructors: Professor Yoram Y. Margalioth, Einat Solnik & Inbar BenAri
+:    *Verification page: https://www.coursera.org/account/accomplishments/records/BfY4YHP46WJvYA2u (with distinction)*
+
+
+
+
+### Other English Courses
+\hrule
+\setlength{\parskip}{0.3em}
+
+Course Title
+:    Write101x: English Grammar & Style by The University of Queensland, Australia through edX. Certificate earned on October 2, 2015. Instructors: Roslyn Petelin, John Zornig
+:    *Verification Page: https://verify.edx.org/cert/f31ba036d393444fb4de2da924f90023 *
+
+\setlength{\parskip}{0em}
+
+Course Title
+:    ColWri2.1x: How to Write an Essay by BerkeleyX, an online learning initiative of University of California, Berkeley through edX. Certificate earned on October 28, 2015. Instructor: Maggie Sokolik, Ph.D
+:    *Verification Page: https://courses.edx.org/certificates/5af1b6f045374680a95183f8a70a080c *
+
+Course Title
+:    ColWri2.2x: English Grammar and Essay Writing by BerkeleyX, an online learning initiative
+of University of California, Berkeley through edX. Certificate earned on February 23, 2016. Instructor: Maggie Sokolik, Ph.D
+:    *Verification Page: https://courses.edx.org/certificates/ad6fd5e11d9e455b9b986bd9ef0179b5 *
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Early Education
+---------------
+
+\hrule
+\setlength{\parskip}{0.3em}
+
+1998-1999
+:   **MSc, Finance**; University of Economics, Varna, Bulgaria
+:    *Course Concentrations: Financial Management, Pensions, Life and Property Insurance, Accounting Management*
+
+1994-1998
+:   **BSc, Finance**; University of Economics, Varna, Bulgaria
+
+
+1990-1994
+:   **Mathematics major, High School/Secondary Education**
+
+
+
+
