@@ -7,6 +7,7 @@ output:
      reference_docx: temp.docx
   pdf_document: default
 urlcolor: green
+geometry: "left=1cm,right=1cm,top=1cm,bottom=2cm"
 ---
 
 
@@ -15,6 +16,25 @@ urlcolor: green
 
 \color{Black}
 
+
+------------------------------------            --------------------------------
+https://www.linkedin.com/in/tsnikolov-0135              Address: The Netherlands 
+EU Citizen                                                   Street: Houtmankade 
+Phone Number: 0619140638                                         City: Amsterdam
+Email: tycho0135@gmail.com                                    
+Web: http://rpubs.com/Tycho                           https://github.com/Tycho-1    
+-------------------------------------             -------------------------------
+
+
+Summary 
+------------                                                                      -----------
+Economist/Computer Scientist: Interested in joining a data-driven organization, 
+and contributing in the field of knowledge with a true passion. Machine learning 
+and statistics professional with good programming skills, straddling the world of
+economics and computer science. 
+-------------                                                                    ------------
+
+  
 
 Education
 ---------
@@ -29,6 +49,116 @@ Education
 Online Education
 ----------------
 
+
+
+### Data Engineering, Big Data, and Machine Learning on GCP Specialization  
+
+
+\hrule
+
+\setlength{\parskip}{0.3em}
+
+*Offered by:* **Google Cloud Training **, *Completed:* Sep 2019,
+
+Course Title   
+:    Google Cloud Platform Big Data and Machine Learning Fundamentals
+:    *Verification page: https://www.coursera.org/account/accomplishments/certificate/949H96ZH8LEC * 
+
+Course Title   
+:     Leveraging Unstructured Data with Cloud Dataproc on Google Cloud Platform
+:    *Verification page: https://www.coursera.org/account/accomplishments/certificate/8ZL3KMHWC6HB * 
+
+\setlength{\parskip}{0em}
+
+Course Title   
+:    Serverless Data Analysis with Google BigQuery and Cloud Dataflow
+:    *Verification page: https://www.coursera.org/account/accomplishments/certificate/553DJB24GEJG * 
+
+Course Title   
+:    Serverless Machine Learning with Tensorflow on Google Cloud Platform
+:    *Verification page: https://www.coursera.org/account/accomplishments/certificate/4A8TN83DGZTM * 
+
+
+Course Title
+:    Building Resilient Streaming Systems on Google Cloud Platform
+:    *Verification page: https://www.coursera.org/account/accomplishments/certificate/PVL2TBVLP82X *
+
+*Specialization Certificate*: 
+*https://www.coursera.org/account/accomplishments/specialization/certificate/MXLEGBA8LB7U *
+
+
+### Architecting with Google Kubernetes Engine Specialization  
+
+
+\hrule
+
+\setlength{\parskip}{0.3em}
+
+*Offered by:* **Google Cloud Training **, *Completed:* Aug 2019,
+
+Course Title   
+:    Architecting with Google Kubernetes Engine: Foundations
+:    *Verification page: https://www.coursera.org/account/accomplishments/certificate/P3KEGF8PGZDA * 
+
+\setlength{\parskip}{0em}
+
+Course Title   
+:    Architecting with Google Kubernetes Engine: Workloads
+:    *Verification page: https://www.coursera.org/account/accomplishments/certificate/FC2MRUFQUZ5X * 
+
+Course Title   
+:    Architecting with Google Kubernetes Engine: Production
+:    *Verification page: https://www.coursera.org/account/accomplishments/certificate/5GAQWS288MSK * 
+
+
+Course Title
+:    Getting Started with Google Kubernetes Engine, *Completed:* June 2019
+:    *Verification page: https://www.coursera.org/account/accomplishments/certificate/KT2TY8BG9TWP *
+
+*Specialization Certificate*: 
+*https://www.coursera.org/account/accomplishments/specialization/certificate/LPGQ596EY3GR *
+
+
+
+
+
+### Specialization *Functional Programming in Scala*  
+
+
+\hrule
+
+\setlength{\parskip}{0.3em}
+
+*Offered by:* **École Polytechnique Fédérale de Lausanne **, *Completed:* Aug 2019,
+*Instructor:* **Martin Odersky**
+
+Course Title   
+:    Functional Programming Principles in Scala
+:    *Verification page: https://www.coursera.org/account/accomplishments/certificate/7ZJUAX75Z3R5 * 
+
+\setlength{\parskip}{0em}
+
+Course Title   
+:    Functional Program Design in Scala
+:    *Verification page: https://www.coursera.org/account/accomplishments/certificate/A9S5M9JXEQRZ * 
+
+Course Title   
+:    Parallel Programming
+:    *Verification page: https://www.coursera.org/account/accomplishments/certificate/V2JBEBWMJBS5 * 
+
+Course Title   
+:    Big Data Analysis with Scala and Spark
+:    *Verification page: https://www.coursera.org/account/accomplishments/certificate/D93LGMEL2EYC * 
+
+Course Title   
+:    Functional Programming in Scala Capstone
+:    *Verification page: https://www.coursera.org/account/accomplishments/certificate/3DH48C2G46QU * 
+
+*Specialization Certificate*: 
+*https://www.coursera.org/account/accomplishments/specialization/certificate/R4VX9EEQ3YL8 *
+
+
+\vspace{1cm}
 
 ### Specialization *Applied Data Science with Python*  
 
@@ -96,7 +226,10 @@ Course Title
 *https://www.coursera.org/account/accomplishments/specialization/certificate/LQDM7YBBH59T *
 
 
-### Recent 
+### Individual Courses
+
+
+
 Course Title
 :    001x: MongoDB Basics, offered by MongoDB University and edX(June 2018)
 :    *Verification page: https://courses.edx.org/certificates/3a573fb102144b08bd4fe9c7eeeb414b *
@@ -108,7 +241,7 @@ Course Title
 
 
 Course Title
-:    IM.1x: Introduction to Management Information Systems (MIS): A Survival Guide, offered by UC3Mx and edX(March 2018 April 2018) Instructor: Alfonso DurÃ¡n Heras
+:    IM.1x: Introduction to Management Information Systems (MIS): A Survival Guide, offered by UC3Mx and edX(March 2018 April 2018) Instructor: Alfonso Durán Heras
 :    *Verification page: https://courses.edx.org/certificates/06975c9dab5e4677bff257cc72dc2392 *
 
 Course Title
@@ -294,7 +427,7 @@ Course Title
 
 
 Course Title
-:    EX101: Data Analysis Take It to the MAX() by DelftX and edX, Certificate earned on June 19, 2015. Instructors: FÃ©lienne Hermans
+:    EX101: Data Analysis Take It to the MAX() by DelftX and edX, Certificate earned on June 19, 2015. Instructors: Félienne Hermans
 :    *Verification page: https://verify.edx.org/cert/05efe5c3b7984902848396dd2f444c36 *
 
 
@@ -323,7 +456,7 @@ Course Title
 
 
 Course Title
-:    Data Analysis and Statistical Inference (Date: November 10, 2014) Instructor: Dr. Mine Ã‡etinkayaRundel
+:    Data Analysis and Statistical Inference (Date: November 10, 2014) Instructor: Dr. Mine ÇetinkayaRundel
 :    *Verification page: https://www.coursera.org/account/accomplishments/certificate/7LCXUW4SWJ (with distinction)*
 
 Course Title
@@ -331,7 +464,7 @@ Course Title
     *Verification page: https://www.coursera.org/account/accomplishments/records/df2H5Ld9N8g8cSzq (with distinction)*
     
 Course Title
-:    Reasoning, Data Analysis, & Writing Final Project (Date: March 21, 2016). Instructors: Dr. Walter Sinnott-Armstrong, Dr. Denise Comer, Mine Ã‡etinkaya-Rundel & Dr. Ram Neta
+:    Reasoning, Data Analysis, & Writing Final Project (Date: March 21, 2016). Instructors: Dr. Walter Sinnott-Armstrong, Dr. Denise Comer, Mine Çetinkaya-Rundel & Dr. Ram Neta
 :    *Verification page: https://www.coursera.org/account/accomplishments/certificate/A4KUG7F6RA (with distinction)*
 
 Specialization Certificate: *https://www.coursera.org/account/accomplishments/specialization/certificate/DZL3K7ZA3SDK *
