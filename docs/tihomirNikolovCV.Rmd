@@ -35,19 +35,92 @@ economics and computer science.
 -------------                                                                    ------------
 
   
-
-Education
----------
+Achievements
+------------
 
 \hrule
+
+\setlength{\parskip}{0.3em}
 
 2016-2017 
 :   **MSc, Finance, track 'Corporate Finance'**; University of Amsterdam
 
-    *Thesis title: Private equity, debt and financial distress. Is there evidence of excessive bankruptcies in Europe?*
+    *Thesis title: Private equity, debt and financial distress. Is there evidence of excessive bankruptcies in Europe?  ([link](https://github.com/Tycho-1/myHtmlCV/blob/master/docs/masterThesisTihomirNikolov.pdf))* 
+    
+
+\setlength{\parskip}{0.5em}
+
+
+\setlength{\parskip}{0.5em}
+
+2019, Dec 20th 
+:   **Professional Data Engineer** : GOOGLE CLOUD CERTIFIED  ([link](https://www.credential.net/288525af-c5e2-4459-a60b-759a2c7d6070))
+  
 
 Online Education
 ----------------
+
+
+
+### Developing Applications with Google Cloud Platform  
+
+
+\hrule
+
+\setlength{\parskip}{0.3em}
+
+*Offered by:* **Google Cloud Training **, *Completed:* Nov 2019
+
+Course Title   
+:    Getting Started With Application Development
+:    *Verification page: https://coursera.org/share/c76df9f4c4edc6a7704a3f755948070c * 
+  
+  Course Title   
+:    Securing and Integrating Components of your Application 
+:    *Verification page: https://coursera.org/share/9ac1481e02ad5107860a3404cf16cc00 * 
+  
+
+Course Title   
+:    App Deployment, Debugging, and Performance
+:    *Verification page: https://coursera.org/share/341bfcf3f5172ff2b8b4c9e5d72c153f * 
+  
+
+  *Specialization Certificate*: 
+  *https://coursera.org/share/6f8bb5db0d4732b7457f0a117a5ab97b *
+  
+
+
+### Architecting with Google Compute Engine
+
+\hrule
+
+\setlength{\parskip}{0.3em}
+
+*Offered by:* **Google Cloud Training **, *Completed:* Oct 2019
+
+Course Title   
+:    Essential Cloud Infrastructure: Foundation
+:    *Verification page: https://coursera.org/share/455a91842935142be7a00f01972e4f7f * 
+  
+Course Title   
+:    Essential Cloud Infrastructure: Core Services 
+:    *Verification page: https://www.coursera.org/account/accomplishments/certificate/53Y4BYCZ8NXU * 
+  
+
+Course Title   
+:    Elastic Cloud Infrastructure: Scaling and Automation
+:    *Verification page: https://coursera.org/share/f2d4cd215eaf59550d63a5353721cab6 * 
+  
+
+Course Title
+:    Reliable Cloud Infrastructure: Design and Process
+:    *Verification page: https://coursera.org/share/ad2a69556ef52931bff472c06364296f  *
+  
+  *Specialization Certificate*: 
+  *https://coursera.org/share/be4ef9bfa884d346840c824e39a5892b *
+  
+
+
 
 
 
@@ -158,7 +231,7 @@ Course Title
 *https://www.coursera.org/account/accomplishments/specialization/certificate/R4VX9EEQ3YL8 *
 
 
-\vspace{1cm}
+
 
 ### Specialization *Applied Data Science with Python*  
 
